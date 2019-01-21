@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'test site map'
 date: 2019-01-21
 lastmod : 2019-01-21 23:36:00
