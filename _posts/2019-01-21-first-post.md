@@ -1,6 +1,11 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-01-21 23:34:28 -0400
-categories: jekyll update
+layout: post
+title: 'test site map'
+date: 2019-01-21
+lastmod : 2019-01-21 23:36:00
+sitemap :
+changefreq : weekly
+priority: 1.0
 ---
+
 testing
